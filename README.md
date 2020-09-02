@@ -1,2 +1,2 @@
 # mednafen-simple-gui
-Simply Python Kivy application for launching and configuring Mednafen.
+Simple Python Kivy application for launching and configuring Mednafen.
